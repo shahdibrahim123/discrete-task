@@ -1,0 +1,8 @@
+C:\Users\Heba\Desktop\New folder\prime numbers\prime numbers\bin\Debug\prime numbers.exe.config
+C:\Users\Heba\Desktop\New folder\prime numbers\prime numbers\bin\Debug\prime numbers.exe
+C:\Users\Heba\Desktop\New folder\prime numbers\prime numbers\bin\Debug\prime numbers.pdb
+C:\Users\Heba\Desktop\New folder\prime numbers\prime numbers\obj\Debug\prime numbers.csproj.AssemblyReference.cache
+C:\Users\Heba\Desktop\New folder\prime numbers\prime numbers\obj\Debug\prime numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heba\Desktop\New folder\prime numbers\prime numbers\obj\Debug\prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\Heba\Desktop\New folder\prime numbers\prime numbers\obj\Debug\prime numbers.exe
+C:\Users\Heba\Desktop\New folder\prime numbers\prime numbers\obj\Debug\prime numbers.pdb

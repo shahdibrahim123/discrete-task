@@ -1,0 +1,8 @@
+C:\Users\Heba\Desktop\New folder\perfect numbers\perfect numbers\bin\Debug\perfect numbers.exe.config
+C:\Users\Heba\Desktop\New folder\perfect numbers\perfect numbers\bin\Debug\perfect numbers.exe
+C:\Users\Heba\Desktop\New folder\perfect numbers\perfect numbers\bin\Debug\perfect numbers.pdb
+C:\Users\Heba\Desktop\New folder\perfect numbers\perfect numbers\obj\Debug\perfect numbers.csproj.AssemblyReference.cache
+C:\Users\Heba\Desktop\New folder\perfect numbers\perfect numbers\obj\Debug\perfect numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heba\Desktop\New folder\perfect numbers\perfect numbers\obj\Debug\perfect numbers.csproj.CoreCompileInputs.cache
+C:\Users\Heba\Desktop\New folder\perfect numbers\perfect numbers\obj\Debug\perfect numbers.exe
+C:\Users\Heba\Desktop\New folder\perfect numbers\perfect numbers\obj\Debug\perfect numbers.pdb
